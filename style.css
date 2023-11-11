@@ -1,3 +1,13 @@
-.main-heading [
-    
-]
+.main-heading {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.image1 {
+    width: 942px;
+    height: 450px;
+
+}
