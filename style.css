@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.links {
+    background-color: rosybrown;
+    text-align: center;
+    width: 50%;
+    margin: 5px auto;
+    border: solid 2px black;
+    font-size: 50px;
+    
+}
+
+.links a {
+    display: block;
+    border: 2px rgb(255, 255, 255) solid;
+    margin: 10px 10px;
+    height: 67px;
+}
+
+.heading {
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-top: 15px;
+    border: double 4px rgb(0, 102, 255);
+    
+}
