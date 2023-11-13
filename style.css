@@ -4,20 +4,23 @@
 
 
 .links {
-    background-color: rosybrown;
-    text-align: center;
+    display: flex;
+    border: solid 4px rgba(0, 0, 0, 0);
+    gap: 1em;
+    flex-direction: column;
     width: 50%;
-    margin: 5px auto;
-    border: solid 2px black;
-    font-size: 50px;
+    margin: 0 auto;
+    flex-wrap: wrap;
     
 }
 
 .links a {
-    display: block;
-    border: 2px rgb(255, 255, 255) solid;
-    margin: 10px 10px;
-    height: 67px;
+    border: double 4px rgb(0, 102, 255);
+    flex: 1 1 auto;
+    text-align: center;
+    font-size: 50px;
+    
+    
 }
 
 .heading {
